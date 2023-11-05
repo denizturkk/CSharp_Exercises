@@ -1,0 +1,14 @@
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.exe
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.deps.json
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.dll
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.pdb
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.dll
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\refint\EventsAndDelegates.dll
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.pdb
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\90536\Documents\C#\Exercise\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\ref\EventsAndDelegates.dll
